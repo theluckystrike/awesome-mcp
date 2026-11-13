@@ -267,3 +267,8 @@ Tooling that helps you **build, test, secure, deploy or manage** MCP servers.
 | [Allowly MCP](https://github.com/Allowly-AI/allowly-mcp) | Middleware that checks MCP tool calls against hosted Allowly policies before running the tool handler. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2w | 0 |
 | [mcp-drift](https://github.com/tomelias10/orynval-labs) | Offline, read-only CLI that scans MCP client configs for unpinned npx/uvx and @latest launches, inline tokens, broad filesystem scope and drift from an approved baseline, with SARIF output. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 4w | 0 |
 
+## More from zovo
+
+- [All free zovo VS Code extensions](https://marketplace.visualstudio.com/publishers/zovo) - file viewers, database clients, formatters. Offline, no telemetry, no sign-up.
+- [Full MCP server catalogue](https://theluckystrike.github.io/mcp/) - local-first MCP servers for back-office work: invoices, VAT, PDFs, spreadsheets, payroll.
+- [Hosted no-install MCP endpoints](https://mcp.zovo.one) - paste a URL in Claude / Cursor, nothing to install.
