@@ -399,6 +399,26 @@ def main():
         A(server_row(e))
     A("")
 
+    # --- Hosted Live-Data MCP Servers and Readiness Checker ---
+    A("## Hosted Live-Data MCP Servers and Readiness Checker")
+    A("")
+    A("Zero-install Streamable HTTP endpoints and store-readiness tooling maintained alongside this list.")
+    A("")
+    A("- [McpStamp Check](https://www.mcpstamp.com/check/) - Free readiness check for any remote MCP server URL (0-100 score, grade A-F, Claude, ChatGPT, Gemini and MCP Registry checks). Live MCP endpoint at `https://mcp.zovo.one/stamp/mcp` and README badge at `https://www.mcpstamp.com/badge?url=<https-mcp-url>`.")
+    A("- [McpStamp Back-Office Suite](https://mcp.zovo.one) - 58 hosted and local-first MCP servers for invoices, VAT, PDFs, spreadsheets, expenses and time tracking.")
+    A("- [McpStamp Free Live-Data Servers](https://www.mcpstamp.com/free-servers/) - Paste-ready hosted MCP servers with no account or API key required:")
+    A("  - [Airport Delays FAA Status MCP](https://github.com/theluckystrike/airport-delays-faa-status-mcp) - `https://airport-delays-faa-status-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [Flood Zone Lookup FEMA Flood Map MCP](https://github.com/theluckystrike/flood-zone-lookup-fema-flood-map-mcp) - `https://flood-zone-lookup-fema-flood-map-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [Hospital Ratings CMS Star Ratings MCP](https://github.com/theluckystrike/hospital-ratings-cms-star-ratings-mcp) - `https://hospital-ratings-cms-star-ratings-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [Nursing Home Ratings Care Compare MCP](https://github.com/theluckystrike/nursing-home-ratings-medicare-care-compare-mcp) - `https://nursing-home-ratings-medicare-care-compare-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [Restaurant Health Inspection Scores MCP](https://github.com/theluckystrike/restaurant-health-inspection-scores-mcp) - `https://restaurant-health-inspection-scores-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [Snow Depth Snowpack SNOTEL MCP](https://github.com/theluckystrike/snow-depth-snowpack-snotel-mcp) - `https://snow-depth-snowpack-snotel-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [Egg Prices and Grocery Prices MCP](https://github.com/theluckystrike/egg-prices-grocery-prices-mcp) - `https://egg-prices-grocery-prices-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [Prime Rate SOFR Fed Funds Rate Today MCP](https://github.com/theluckystrike/prime-rate-sofr-fed-funds-rate-today-mcp) - `https://prime-rate-sofr-fed-funds-rate-today-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [Ingredient Convert MCP](https://github.com/theluckystrike/ingredient-convert-mcp) - `https://ingredient-convert-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [Lake Level MCP](https://github.com/theluckystrike/lake-level-mcp) - `https://lake-level-mcp.lipmichal.workers.dev/mcp`")
+    A("")
+
     print("\n".join(out))
 
 
