@@ -12,14 +12,14 @@ _Servers are grouped by what they do. Each row shows the real language, reposito
   - [Dev, Code & Git](#dev-code--git) (18)
   - [Databases & Data](#databases--data) (2)
   - [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (7)
-  - [Web, Search & Browser](#web-search--browser) (15)
+  - [Web, Search & Browser](#web-search--browser) (16)
   - [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (9)
   - [Communication & Social](#communication--social) (6)
   - [Commerce, Ads & Business](#commerce-ads--business) (12)
   - [AI, Agents & Memory](#ai-agents--memory) (9)
   - [Media & 3D](#media--3d) (11)
-  - [Finance & Crypto](#finance--crypto) (6)
-  - [Other](#other) (11)
+  - [Finance & Crypto](#finance--crypto) (7)
+  - [Other](#other) (12)
 - [Clients](#clients)
 - [SDKs](#sdks)
 - [Tools](#tools)
@@ -37,7 +37,7 @@ Standout community servers by traction and activity.
 | [Blender](https://github.com/ahujasid/blender-mcp) | Interact with and control Blender using prompt assisted 3D modeling, scene creation, and manipulation. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 7d | 35.7k |
 | [AWS](https://github.com/awslabs/mcp) ✅ | A suite of specialized MCP servers that bring AWS best practices directly to your development workflow. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 1d | 9.9k |
 | [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) | Provides Xcode-related tools for integration with AI assistants and other MCP clients. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 6d | 6.6k |
-| [WhatsApp](https://github.com/lharries/whatsapp-mcp) | Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🔴 1y | 6.9k |
+| [WhatsApp](https://github.com/lharries/whatsapp-mcp) | Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🔴 1y | 7k |
 | [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | Interact with Obsidian. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 2mo | 4.6k |
 
 > The canonical reference servers live in [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — listed by category below.
@@ -105,6 +105,7 @@ Standout community servers by traction and activity.
 | [Hospital Ratings CMS Star Ratings MCP](https://github.com/theluckystrike/hospital-ratings-cms-star-ratings-mcp) | CMS overall hospital star ratings, patient survey stars, ER wait times and quality measures for US hospitals. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8d | 0 |
 | [Restaurant Health Inspection Scores MCP](https://github.com/theluckystrike/restaurant-health-inspection-scores-mcp) | Latest restaurant health inspection grades, scores and violations in NYC, Chicago, Austin and Boston. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8d | 0 |
 | [Nursing Home Ratings Care Compare MCP](https://github.com/theluckystrike/nursing-home-ratings-medicare-care-compare-mcp) | Medicare Care Compare nursing home star ratings, staffing, inspection deficiencies and fines. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8d | 0 |
+| [NHTSA Vehicle Recalls and VIN Decoder MCP](https://github.com/theluckystrike/nhtsa-vehicle-recalls-vin-mcp) | Decode 17-character VINs via NHTSA vPIC, check open safety recalls, consumer complaints and 5-star NCAP crash ratings. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
 
 ### Productivity, Docs & Knowledge
 
@@ -125,7 +126,7 @@ Standout community servers by traction and activity.
 | Server | Description | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
 | [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) ✅ | Channel management and messaging capabilities. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 92.2k |
-| [WhatsApp](https://github.com/lharries/whatsapp-mcp) | Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🔴 1y | 6.9k |
+| [WhatsApp](https://github.com/lharries/whatsapp-mcp) | Search your personal Whatsapp messages, search your contacts and send messages to either individuals or groups. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🔴 1y | 7k |
 | [Atomic Mail](https://github.com/Atomic-Mail/atomic-mail-agentic) | Gives an agent its own mailbox: it registers an address by proof of work, then reads, sends and searches over JMAP. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 256 |
 | [call4me](https://github.com/skeptrunedev/call4me) | Places real phone calls to businesses for the user (bookings, appointments, cancellations), navigates phone menus and returns the transcript and outcome; hosted at call4.me/mcp with OAuth. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 18 |
 | [posteverywhere/mcp](https://github.com/posteverywhere/mcp) | Schedule and publish to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, and Telegram from natural language. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 5d | 8 |
@@ -169,7 +170,7 @@ Standout community servers by traction and activity.
 | [Blender](https://github.com/ahujasid/blender-mcp) | Interact with and control Blender using prompt assisted 3D modeling, scene creation, and manipulation. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 7d | 35.7k |
 | [Funplay MCP for Unity](https://github.com/FunplayAI/funplay-unity-mcp) | Unity Editor MCP server with execute_code, play mode automation, screenshots, input simulation, prompts, and resources. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18" alt="C#" title="C#"> | 🟢 2d | 332 |
 | [RunAPI](https://github.com/runapi-ai/mcp) | MCP server for model discovery and AI image, video, music/audio, text-to-speech, and LLM jobs via RunAPI. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 56 |
-| [Magic Hour](https://github.com/magichourhq/magic-hour-mcp) | Hosted first-party server that lets agents generate and edit video, images, and audio through Magic Hour's API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 1d | 10 |
+| [Magic Hour](https://github.com/magichourhq/magic-hour-mcp) | Hosted first-party server that lets agents generate and edit video, images, and audio through Magic Hour's API. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 10 |
 | [YouTube Transcript](https://github.com/tubeagentkit/youtube-mcp) | Fetches YouTube transcripts, searches videos and channels, and lists channel uploads and playlists via the getyoutubetranscript.com API, as a local stdio server or a hosted endpoint. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 1d | 9 |
 | [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) | Render 4-6s animated b-roll overlay videos for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape video. Paste a script, the AI writes the scene spec and renders the mp4. Free, MIT, runs locally. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 5mo | 2 |
 | [Serato DJ](https://github.com/Venut-Technologies/serato-dj-mcp) | Searches and audits a local Serato DJ library by BPM and Camelot key, lists crates, finds duplicates and missing files, and builds new crates with a preview before writing. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 2mo | 2 |
@@ -188,6 +189,7 @@ Standout community servers by traction and activity.
 | [FXMacroData](https://github.com/fxmacrodata/mcp-server-fxmacrodata) | Official-source macroeconomic data for 22 currencies through 8 tools: indicator time series with announcement dates, release calendars, the indicator catalogue, FX spot rates, COT positioning, commodities, FX market sessions and a ping check. Recent USD releases, the USD calendar and USD COT positioning work without an API key. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 7w | 0 |
 | [Prime Rate SOFR Fed Funds Rate Today MCP](https://github.com/theluckystrike/prime-rate-sofr-fed-funds-rate-today-mcp) | Live New York Fed reference rates (fed funds, SOFR, prime rate), FOMC rate changes and loan rate calculator. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8d | 0 |
 | [Egg Prices and Grocery Prices MCP](https://github.com/theluckystrike/egg-prices-grocery-prices-mcp) | Monthly US average retail prices for eggs, beef, coffee, milk, bread, gas and electricity from BLS CPI data. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8d | 0 |
+| [FDIC Bank Health and Financials MCP](https://github.com/theluckystrike/fdic-bank-health-financials-mcp) | Live FDIC deposit insurance verification, quarterly Call Report financials, failed bank records and branch locations. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
 
 ### Other
 
@@ -204,6 +206,7 @@ Standout community servers by traction and activity.
 | [Snow Depth Snowpack SNOTEL MCP](https://github.com/theluckystrike/snow-depth-snowpack-snotel-mcp) | Daily USDA NRCS SNOTEL snow depth, snow water equivalent and percent of median for western US mountain sites. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8d | 1 |
 | [Airport Delays FAA Status MCP](https://github.com/theluckystrike/airport-delays-faa-status-mcp) | Live FAA airport status, ground stops, ground delay programs, closures and trip delay checks. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8d | 0 |
 | [Flood Zone Lookup FEMA Flood Map MCP](https://github.com/theluckystrike/flood-zone-lookup-fema-flood-map-mcp) | FEMA flood zone, SFHA status, base flood elevation and FIRM panel lookup for any US address. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 8d | 0 |
+| [FEMA Disaster Declarations and Aid MCP](https://github.com/theluckystrike/fema-disaster-declarations-aid-mcp) | US federal disaster declarations, county-level FEMA eligibility checks and official disaster aid grant totals from OpenFEMA. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 0 |
 
 ## Clients
 
@@ -211,7 +214,7 @@ Standout community servers by traction and activity.
 |---|---|---|:--:|--:|
 | [n8n](https://github.com/nerding-io/n8n-nodes-mcp) | interact with Model Context Protocol (MCP) servers in your n8n workflows. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟡 10mo | 3k |
 | [eechat](https://github.com/Lucassssss/eechat) | An open-source, cross-platform desktop application that seamlessly connects with full support for MCP, across Linux, macOS, and Windows. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟡 3mo | 354 |
-| [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop) | Local-first macOS app that runs a full AI suite on-device (LLM chat, image generation, transcription, memory/RAG) and connects to MCP servers as a client, with no account or telemetry. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 162 |
+| [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop) | Local-first macOS app that runs a full AI suite on-device (LLM chat, image generation, transcription, memory/RAG) and connects to MCP servers as a client, with no account or telemetry. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 163 |
 | [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first TypeScript agent runtime that connects agents to stdio and URL-based MCP servers, with persistent sessions, sandboxed tools, memory, credentials, audit logs, and replay. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 643 |
 | [FLUJO](https://github.com/mario-andreschak/FLUJO) | Local-first visual AI agent builder and MCP client with server management, tool inspection, multi-model chat, and workflow debugging. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 3d | 674 |
 
@@ -225,7 +228,7 @@ Core SDKs maintained by the MCP organization.
 |---|---|:--:|--:|
 | [Python](https://github.com/modelcontextprotocol/python-sdk) | Reference implementation, most widely used. | 🟢 8d | 25k |
 | [TypeScript](https://github.com/modelcontextprotocol/typescript-sdk) | Reference implementation for Node.js/browser. | 🟢 6d | 13.8k |
-| [Rust (rmcp)](https://github.com/modelcontextprotocol/rust-sdk) | Official Rust SDK with proc macros. | 🟢 1d | 4.1k |
+| [Rust (rmcp)](https://github.com/modelcontextprotocol/rust-sdk) | Official Rust SDK with proc macros. | 🟢 0d | 4.1k |
 | [Go](https://github.com/modelcontextprotocol/go-sdk) | Official Go SDK, maintained with Google. | 🟢 1d | 5.4k |
 | [Kotlin](https://github.com/modelcontextprotocol/kotlin-sdk) | Multiplatform (JVM, Wasm, iOS). | 🟢 1d | 1.5k |
 | [C#](https://github.com/modelcontextprotocol/csharp-sdk) | ASP.NET Core, Azure Functions integration. | 🟢 1d | 4.6k |
@@ -235,7 +238,7 @@ Core SDKs maintained by the MCP organization.
 
 | SDK | Notes | Lang | Activity | ⭐ |
 |---|---|---|:--:|--:|
-| [Fast MCP](https://github.com/jlowin/fastmcp) | High-level Python framework used by ~70% of Python MCP servers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 1d | 28.7k |
+| [Fast MCP](https://github.com/jlowin/fastmcp) | High-level Python framework used by ~70% of Python MCP servers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟢 0d | 28.7k |
 | [tower-mcp](https://github.com/joshrotenberg/tower-mcp) | Tower-native implementation with middleware composition via `.layer()`. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 1d | 14 |
 | [rust-mcp-sdk](https://github.com/rust-mcp-stack/rust-mcp-sdk) | Async SDK with proc macros, hyper-based HTTP transport. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 2d | 203 |
 | [pmcp](https://github.com/paiml/rust-mcp-sdk) | SIMD-optimized JSON-RPC parsing, performance-focused. | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="18" alt="Rust" title="Rust"></picture> | 🟢 2d | 51 |
@@ -250,7 +253,7 @@ Tooling that helps you **build, test, secure, deploy or manage** MCP servers.
 |---|---|---|:--:|--:|
 | [Server inspector](https://github.com/modelcontextprotocol/inspector) ✅ | Visual testing tool for MCP servers. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 1d | 11.4k |
 | [MCP Agent](https://github.com/lastmile-ai/mcp-agent) | Build effective agents with Model Context Protocol using simple, composable patterns. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" title="Python"> | 🟡 10mo | 8.6k |
-| [ToolHive](https://github.com/StacklokLabs/toolhive) | A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 1d | 2.4k |
+| [ToolHive](https://github.com/StacklokLabs/toolhive) | A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18" alt="Go" title="Go"> | 🟢 0d | 2.4k |
 | [MCP Installer](https://github.com/anaisbetts/mcp-installer) | A server that installs other MCP servers for you. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🔴 1y | 1.5k |
 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Records the MCP JSON-RPC a coding agent exchanges during a real session, on the same timeline as the model traffic and shell commands, then replays it offline. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🟢 7w | 1.2k |
 | [Fleur MCP](https://github.com/fleuristes/fleur) | A desktop app marketplace for Claude Desktop. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> | 🔴 1y | 535 |
@@ -292,4 +295,7 @@ Zero-install Streamable HTTP endpoints and store-readiness tooling maintained al
   - [Prime Rate SOFR Fed Funds Rate Today MCP](https://github.com/theluckystrike/prime-rate-sofr-fed-funds-rate-today-mcp) - `https://prime-rate-sofr-fed-funds-rate-today-mcp.lipmichal.workers.dev/mcp`
   - [Ingredient Convert MCP](https://github.com/theluckystrike/ingredient-convert-mcp) - `https://ingredient-convert-mcp.lipmichal.workers.dev/mcp`
   - [Lake Level MCP](https://github.com/theluckystrike/lake-level-mcp) - `https://lake-level-mcp.lipmichal.workers.dev/mcp`
+  - [FDIC Bank Health and Financials MCP](https://github.com/theluckystrike/fdic-bank-health-financials-mcp) - `https://fdic-bank-health-financials-mcp.lipmichal.workers.dev/mcp`
+  - [FEMA Disaster Declarations and Aid MCP](https://github.com/theluckystrike/fema-disaster-declarations-aid-mcp) - `https://fema-disaster-declarations-aid-mcp.lipmichal.workers.dev/mcp`
+  - [NHTSA Vehicle Recalls and VIN Decoder MCP](https://github.com/theluckystrike/nhtsa-vehicle-recalls-vin-mcp) - `https://nhtsa-vehicle-recalls-vin-mcp.lipmichal.workers.dev/mcp`
 

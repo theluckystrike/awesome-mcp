@@ -417,6 +417,9 @@ def main():
     A("  - [Prime Rate SOFR Fed Funds Rate Today MCP](https://github.com/theluckystrike/prime-rate-sofr-fed-funds-rate-today-mcp) - `https://prime-rate-sofr-fed-funds-rate-today-mcp.lipmichal.workers.dev/mcp`")
     A("  - [Ingredient Convert MCP](https://github.com/theluckystrike/ingredient-convert-mcp) - `https://ingredient-convert-mcp.lipmichal.workers.dev/mcp`")
     A("  - [Lake Level MCP](https://github.com/theluckystrike/lake-level-mcp) - `https://lake-level-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [FDIC Bank Health and Financials MCP](https://github.com/theluckystrike/fdic-bank-health-financials-mcp) - `https://fdic-bank-health-financials-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [FEMA Disaster Declarations and Aid MCP](https://github.com/theluckystrike/fema-disaster-declarations-aid-mcp) - `https://fema-disaster-declarations-aid-mcp.lipmichal.workers.dev/mcp`")
+    A("  - [NHTSA Vehicle Recalls and VIN Decoder MCP](https://github.com/theluckystrike/nhtsa-vehicle-recalls-vin-mcp) - `https://nhtsa-vehicle-recalls-vin-mcp.lipmichal.workers.dev/mcp`")
     A("")
 
     print("\n".join(out))
